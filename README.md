@@ -2,8 +2,11 @@
 Classification of breast cancer (among 2 classes: 0 No cancer, 1 Cancer ) using the file https://zenodo.org/records/10519652 dataset breastmnist_128.npz and the vision transformer model with cpu and no multprocess 
 
 Requirements:
+
 The model has been trained, with 2500 epoch, in  a laptot wit 16Gb in several hours
+
 INSTALLATION:
+
 A requirements.txt file is attached.
 
 Or you can install the following modules one by one if they are not already installed
