@@ -43,7 +43,9 @@ python CreateTest.py
 EVALUATION
 python EvaluateBreastCancer_VisionTransformerCPU.py
 
-The model displays a list of images, by name,  whose classes were correctly predicted and those that were not, resulting in an accuracy of = 85% (hit predictions / (hit predictions + error predictions)).
+The model displays a list of images, by name,  whose classes were correctly predicted and those that were not, resulting in an accuracy of = 85% (hit predictions / (hit predictions + error predictions)). And the confusionMatrix
+
+![Fig1](https://github.com/ablanco1950/BreastCancerClassification_Yolo26/blob/main/ConfusionMatrix.png)
 
 TRAINING
 
