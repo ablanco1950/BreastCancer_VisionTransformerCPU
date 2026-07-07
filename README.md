@@ -61,6 +61,8 @@ python TrainBreastCancer_VisionTransformerCPU.py
 
 With 2500 epoch,  runned in a laptot wit 16Gb in several hours
 
+It has been observed that decreasing the number of epochs increases the number of cancer cases detected, although it also significantly increases the number of false positives. Increasing the number of epochs has not shown signs of exhaustion, so it would be worthwhile to test with more epochs.
+
 REFERENCES:
 
 https://zenodo.org/records/10519652
